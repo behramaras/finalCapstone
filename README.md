@@ -22,11 +22,11 @@ find the product with the highest stock, and access the total values of all prod
 
 ## Installation
 Use the green "Code" button to download the files. You can choose what way you want to download the files in "Local" section.
-
+<img width="492" alt="Ekran Resmi 2023-02-03 16 39 39" src="https://user-images.githubusercontent.com/79098574/216707002-3dfdd798-2d5c-45ab-8f6c-060a0afd39b3.png">
 
 ## Usage
 You can directly download *inventory.py* and *inventory.txt* files into the same file and run *inventory.py*.
-![Alt Text](url)
+
 
 ## Credits
 This project is written by me. This is my github link: **https://github.com/behramaras**
