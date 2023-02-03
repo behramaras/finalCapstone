@@ -26,6 +26,8 @@ Use the green "Code" button to download the files. You can choose what way you w
 
 ## Usage
 You can directly download *inventory.py* and *inventory.txt* files into the same file and run *inventory.py*.
+When you run the code, you see an options panel. You can choose an option and give this option as a input.
+<img width="824" alt="Ekran Resmi 2023-02-03 20 42 44" src="https://user-images.githubusercontent.com/79098574/216707755-564d86d1-11e0-49a5-bf8c-7e3548b46762.png">
 
 
 ## Credits
